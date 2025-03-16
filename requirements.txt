@@ -6,6 +6,6 @@ langchain_google_genai
 PyPDF2
 faiss-cpu
 streamlit
-giskard[llm]
-ipykernel
--e .
+# giskard[llm]==<2.16.1>
+# ipykernel
+# -e .
